@@ -191,13 +191,11 @@ section{
 .section__text__p1{
     font-size: 1.75rem;
     margin-bottom: 1rem;
-    text-align: start;
 }
 
 .title {
     font-size: 3rem;
-    text-align: start;
-    margin-bottom: 1rem;
+    text-align: center;
 }
 
 #socials-container {
@@ -430,4 +428,5 @@ section{
     text-align: center;
   }
   
+
 
